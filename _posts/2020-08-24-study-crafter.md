@@ -1,6 +1,6 @@
 ---
 layout: default
-title:  "Plugin for Study Crafter (A Game Creation Tool)"
+title:  "Debugger Plugin for a Visual Scripting Tool"
 date:   2020-08-24 13:58:15 -0400
 type: student
 ---
@@ -9,7 +9,7 @@ type: student
 ![debugger1](/assets/images/study-crafter-debugger.gif)
 {: refdef}
 
-<p><a href="https://studycrafter.com/">Study Crafter</a> is a visual programming game creation tool used by researchers to conduct usability researches. </p>
+<p><a href="https://studycrafter.com/">Study Crafter</a> is a visual scripting tool for creating games used by researchers to conduct usability researches. </p>
 
 <!-- wp:paragraph -->
 <p>I created a debugger plugin for it. You can:</p>
