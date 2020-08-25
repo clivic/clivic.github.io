@@ -31,4 +31,4 @@ layout: default
 </ul>
 
 # About:
-### Clarence is a passionate engineer devoted to learning new things from new people, in order to make interesting things. Asking search engines questions and making friends with talents are among his biggest hobbies.
+### Clarence is a passionate engineer devoted to learning new things from new people. Asking search engines countless questions and making friends with talents are among his favorite hobbies.
