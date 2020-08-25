@@ -12,6 +12,7 @@ type: student
 [Playable Link](https://splashingspray.itch.io/hearth-fire)
 
 My role: Programmer
+
 Collaborator: [Sidan Fan](https://fansid4.wixsite.com/sidanfanportfolio)
 
 ![image1](/assets/images/hearthfire1.png)
