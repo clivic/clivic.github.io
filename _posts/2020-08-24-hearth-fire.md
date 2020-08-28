@@ -9,7 +9,7 @@ type: student
 
 <p>In this adventure game, you play as Cecilie, a shepherd girl who tries to pass through the valley in this freezing winter with her magic sheep Lucas. Follow the bonfire to keep yourself warm - holding Lucas can also serve for it. Keep walking, until you find a new home to survive this winter.</p>
 
-[Playable Link](https://splashingspray.itch.io/hearth-fire)
+[Itch.io page](https://splashingspray.itch.io/hearth-fire)
 
 My role: Programmer
 
